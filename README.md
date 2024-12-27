@@ -26,7 +26,7 @@ Sou Christian Danner, bacharel, especialista e mestre em engenharia.
     <img src="img/Windows-Dark.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     
