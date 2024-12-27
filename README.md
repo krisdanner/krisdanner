@@ -3,6 +3,10 @@
 
 - Emphasis on modeling dynamic systems and control.
 
+- Mechanics, Mechatronics, Robotics and Aerospace.
+
+- PID, LQR, MRAC, Adaptive Control, Robust Control and Optimal State Estimation.
+
 ## 🛠 Stack
 <!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
