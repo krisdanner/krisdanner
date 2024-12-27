@@ -4,8 +4,10 @@ I'm Christian Danner, bachelor, specialist and master in engineering.
 Emphasis on modeling dynamic systems and control.
 
 ## 🛠 Stack
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+-->
 <p align="center">
 
   <span style="display: inline-block; margin-right: 10px;">
