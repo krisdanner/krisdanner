@@ -35,7 +35,7 @@ Sou Christian Danner, bacharel, especialista e mestre em engenharia.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/> 
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="50"/>    
+    <i class="devicon-latex-original" width="50"></i>           
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="50"/>          
