@@ -1,6 +1,6 @@
-# Olá! 👋
-Sou Christian Danner, bacharel, especialista e mestre em engenharia.
-Ênfase em modelagem de sistemas dinâmicos e controle de sistemas.
+# Hello! 👋
+I'm Christian Danner, bachelor, specialist and master in engineering.
+Emphasis on modeling dynamic systems and system control.
 
 <p align="center">
 
