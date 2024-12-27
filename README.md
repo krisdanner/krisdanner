@@ -50,7 +50,6 @@ Emphasis on modeling dynamic systems and control.
 </p>
 
 ## 📊 Analytics
-![Grade A+](https://img.shields.io/badge/Grade-A%2B-brightgreen?style=flat-square)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisdanner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisdanner&layout=compact&theme=dark)
 <!--
