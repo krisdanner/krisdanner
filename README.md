@@ -1,7 +1,7 @@
 # Hello! 👋
-I'm Christian Danner, bachelor, specialist and master in engineering.
+- I'm Christian Danner, bachelor, specialist and master in engineering.
 
-Emphasis on modeling dynamic systems and control.
+- Emphasis on modeling dynamic systems and control.
 
 ## 🛠 Stack
 <!--
@@ -56,3 +56,5 @@ Emphasis on modeling dynamic systems and control.
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=krisdanner&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
+---
