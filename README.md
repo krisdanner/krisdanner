@@ -48,6 +48,7 @@ Emphasis on modeling dynamic systems and control.
 ## 📊 Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisdanner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisdanner&layout=compact&theme=dark)
-
+<!--
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=krisdanner&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+-->
