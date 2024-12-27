@@ -3,6 +3,7 @@ I'm Christian Danner, bachelor, specialist and master in engineering.
 
 Emphasis on modeling dynamic systems and control.
 
+## 🛠 Stack
 <p align="center">
 
   <span style="display: inline-block; margin-right: 10px;">
@@ -44,7 +45,7 @@ Emphasis on modeling dynamic systems and control.
           
 </p>
 
-## 📊 GitHub Analytics
+## 📊 Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisdanner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisdanner&layout=compact&theme=dark)
 
