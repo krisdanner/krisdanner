@@ -64,4 +64,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=krisdanner&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 ![Imagem_git](https://github.com/user-attachments/assets/8f0282dd-c616-4571-bc5b-6b9846c90ba4)
+
 ---
