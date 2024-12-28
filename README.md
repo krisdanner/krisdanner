@@ -27,6 +27,9 @@
     <img src="img/Python-Dark.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
+  </span>       
+  <span style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
