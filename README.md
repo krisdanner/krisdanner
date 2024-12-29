@@ -18,6 +18,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/assembly.png" alt="assembly" width="50"/>
+  </span>  
+  <span style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/> 
   </span>
   <span style="display: inline-block; margin-right: 10px;">
