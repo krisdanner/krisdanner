@@ -63,6 +63,7 @@
 </p>
 
 ## 📊 Analytics
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=krisdanner&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisdanner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisdanner&layout=compact&theme=dark)
 <!--
