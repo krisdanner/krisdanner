@@ -66,7 +66,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=krisdanner&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisdanner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisdanner&layout=compact&theme=dark)
-![Top Lang WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=krisdanner&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact)
+![Top Langs WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=krisdanner&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact)
 <!--
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=krisdanner&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
