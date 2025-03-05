@@ -1,5 +1,5 @@
 # Hello! 👋
-- I'm Christian Danner, bachelor, specialist and master in engineering.
+- I'm Christian, bachelor, specialist and master in engineering.
 
 - Emphasis on modeling dynamic systems and control.
 
