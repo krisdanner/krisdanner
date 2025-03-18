@@ -3,7 +3,7 @@
 
 - Emphasis on modeling dynamic systems and control.
 
-- Mechanics, Mechatronics, Robotics and Aerospace.
+- Mechanics, Mechatronics, Robotic, Embedded Systems and Aerospace.
 
 - PID, LQR, MRAC, Adaptive Control, Robust Control and Optimal State Estimation.
 
